@@ -3,13 +3,14 @@
 <img src="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/DALL%C2%B7E%202025-02-17%2011.18.01%20-%20A%20modern%20and%20visually%20appealing%20banner%20for%20an%20AI-powered%20chatbot%20in%20an%20e-learning%20system.%20The%20banner%20should%20feature%20a%20futuristic%20chatbot%20assistant%20int.webp"></a>
 </p>
 
-Welcome to the VU Chatbot System repository! 🚀
+Welcome to theSmart Road Risk Alert System System repository! 🚀
 
 <a href="https://app.commanddash.io/agent?github=https://github.com/dr-mushtaq/Chatbot-in-e-learning-system"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 
 ## **Overview 🎯**
 
 The Real-Time Road Risk Alert System is a smart, AI-powered framework designed to enhance road safety by predicting accident risks based on real-time data from traffic sensors, weather APIs, GPS/mobile apps, and historical accident records. Using machine learning models like XGBoost, the system generates risk scores (low, medium, high) and delivers instant alerts via mobile apps, smart signage, or adaptive traffic lights. A cloud-based backend processes live data streams, serves model predictions, and logs events, while a web dashboard enables city authorities to monitor high-risk zones. This system aims to proactively prevent accidents and support smarter urban mobility.
+
 [Chatgp road Map](https://chatgpt.com/c/67f3a9b3-c77c-800e-bd30-9a01261407b1)
 
 ## **Objectives**
