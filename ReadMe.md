@@ -9,7 +9,7 @@ Welcome to the VU Chatbot System repository! 🚀
 
 ## **Overview 🎯**
 
-The VU Chatbot System is an AI-powered virtual assistant designed to enhance user interaction in e-learning environments. It provides personalized assistance to students and educators, streamlining information retrieval, answering queries, and facilitating academic discussions.
+The Real-Time Road Risk Alert System is a smart, AI-powered framework designed to enhance road safety by predicting accident risks based on real-time data from traffic sensors, weather APIs, GPS/mobile apps, and historical accident records. Using machine learning models like XGBoost, the system generates risk scores (low, medium, high) and delivers instant alerts via mobile apps, smart signage, or adaptive traffic lights. A cloud-based backend processes live data streams, serves model predictions, and logs events, while a web dashboard enables city authorities to monitor high-risk zones. This system aims to proactively prevent accidents and support smarter urban mobility.
 [Chatgp road Map](https://chatgpt.com/c/67f3a9b3-c77c-800e-bd30-9a01261407b1)
 
 ## **Objectives**
