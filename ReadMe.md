@@ -10,6 +10,7 @@ Welcome to the VU Chatbot System repository! 🚀
 ## **Overview 🎯**
 
 The VU Chatbot System is an AI-powered virtual assistant designed to enhance user interaction in e-learning environments. It provides personalized assistance to students and educators, streamlining information retrieval, answering queries, and facilitating academic discussions.
+[Chatgp road Map](https://chatgpt.com/c/67f3a9b3-c77c-800e-bd30-9a01261407b1)
 
 ## **Objectives**
 
