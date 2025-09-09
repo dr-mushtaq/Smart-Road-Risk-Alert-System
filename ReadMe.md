@@ -192,7 +192,7 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📚Chapter:2 -Model metrics benchmarks </h2> </summary>
 
 
-## 📚 Chapter: 3 **Model Metrics Benchmarks**
+## 📚 Paper Title: 3 **Improving Road Safety in Smart Cities using Machine Learning Techniques**
 
 This study benchmarks classical and deep learning models for paper title Improving Road Safety in Smart Cities using Machine Learning Techniques (tuned) achieving the best performance.
 
@@ -205,6 +205,13 @@ This study benchmarks classical and deep learning models for paper title Improvi
 | ATTR-LSTM    | 0.6711 | 0.53   | 0.64 | 0.46   | 0.53   | Units: 32, dropout: 0.3, epochs: 8 |
 | KNN-LSTM     | 0.6805 | 0.38   | 0.65 | 0.35   | 0.38   | Units: 32, dropout: 0.3, epochs: 8 |
 | W-CNN-LSTM   | 0.6834 | 0.53   | 0.66 | 0.47   | 0.53   | Units: 32, dropout: 0.3, epochs: 8 |
+
+## 📂 Resources
+🔹 [**Dataset**](https://github.com/dr-mushtaq/Research-Work) – A-Z guide to academic research, tutorials, datasets, and collaborative projects.  
+🔹 [**Code**](https://github.com/dr-mushtaq/Deep-Learning) – Hands-on tutorials with TensorFlow & Keras.  
+🔹 [**Python-Notes**](https://github.com/dr-mushtaq/Python-Notes) – Beginner-friendly Python notes & examples.  
+🔹 [**Machine-Learning**](https://github.com/dr-mushtaq/Machine-Learning) – Implementation of ML algorithms with Jupyter notebooks.  
+🔹 [**Projects**](https://github.com/hussain0048/Projects-) – 100+ real-world AI projects & mini applications.  
 
 </details>
 
@@ -350,6 +357,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/VU-Chatbot-System" />
 </a>
+
 
 
 
