@@ -214,11 +214,18 @@ This study benchmarks classical and deep learning models for paper title Improvi
 </details>
 
 <details> 
-<summary> <h2>📚Chapter 4- Data </h2> </summary>
+<summary> <h2>📚Latest Deep Learning Models for Smart Road Risk ALert System </h2> </summary>
 
-- [**Frequent Asked Question Sheet online**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)
-- [**Rawa Data from VU**](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Information%20For%20Call%20Centre_19-1-2024.docx) 
-- [**How to Make a Chatbot In Python? A Step-by-Step Guide with Source Code**](https://medium.com/@pies052022/how-to-make-a-chatbot-in-python-a-step-by-step-guide-with-source-code-c0f0b1c73378)
+| Name | Purpose | Strengths | Resource | Language Support | Use Cases |
+|---|---|---|---|---|---|
+| **🌐1 - Random Forest** | Classification & regression | High accuracy after tuning (Acc: 0.9963), robust to overfitting | [Scikit-learn RF](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) | Language-agnostic (depends on features) | General ML tasks, classification, feature importance |
+| **🌐2 - Support Vector Machine (SVM)** | Margin-based classification | Works well on smaller datasets, strong theoretical foundation | [Scikit-learn SVM](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) | Language-agnostic | Text classification, bioinformatics, anomaly detection |
+| **🌐3 - XGBoost** | Gradient boosting classifier | Strong performance (Acc: 0.7724 tuned), handles missing values | [XGBoost](https://xgboost.readthedocs.io/en/stable/) | Language-agnostic | Kaggle competitions, tabular data, ranking problems |
+| **🌐4 - BiLSTM** | Sequence modeling | Learns past & future context, but drops in tuned setting (Acc: 0.384) | [Keras LSTM](https://keras.io/api/layers/recurrent_layers/lstm/) | Text (any language with embeddings) | NLP tasks, chatbot dialogues, sequence classification |
+| **🌐5 - ATTR-LSTM** | Attention-enhanced sequence model | Captures context importance with attention (Acc: 0.53 tuned) | [Keras + Attention](https://keras.io/examples/nlp/neural_machine_translation_with_attention/) | Text-based tasks | Chatbots, translation, sentiment analysis |
+| **🌐6 - KNN-LSTM** | Hybrid similarity + sequence model | Combines nearest neighbors & LSTM for mixed patterns | Custom | Text data | Experimental NLP, hybrid classification |
+| **🌐7 - W-CNN-LSTM** | Convolution + recurrent hybrid | Captures local (CNN) + sequential (LSTM) features (Acc: 0.53 tuned) | [Keras CNN+LSTM](https://keras.io/examples/vision/video_classification/) | Multilingual (via embeddings) | Context-aware NLP, video/text classification, chatbots |
+
 
 </details>
 
@@ -355,6 +362,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Smart-Road-Risk-Alert-System" />
 </a>
+
 
 
 
