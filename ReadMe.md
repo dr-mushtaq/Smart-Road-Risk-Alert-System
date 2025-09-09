@@ -352,9 +352,10 @@ We would love your help in making this repository even better! If you know of an
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
-<a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/VU-Chatbot-System" />
+<a href="https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hussain0048/Smart-Road-Risk-Alert-System" />
 </a>
+
 
 
 
