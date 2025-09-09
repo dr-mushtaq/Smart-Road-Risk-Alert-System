@@ -194,6 +194,8 @@ Star this repo if you find it useful ⭐
 
 ## 📚 Chapter: 3 **Model Metrics Benchmarks**
 
+This study benchmarks classical and deep learning models for paper title Improving Road Safety in Smart Cities using Machine Learning Techniques (tuned) achieving the best performance.
+
 | Model       | Accuracy (Default) | Accuracy (Tuned) | F1-Score (Default) | F1-Macro (Tuned) | F1-Micro (Tuned) | Parameters for Tuned Model |
 |-------------|-------------------:|-----------------:|-------------------:|-----------------:|-----------------:|----------------------------|
 | Random Forest | 0.7449 | 0.9963 | 0.72 | 0.9942 | 0.9963 | max_depth: none, n_estimators: 50 |
@@ -348,6 +350,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/VU-Chatbot-System" />
 </a>
+
 
 
 
