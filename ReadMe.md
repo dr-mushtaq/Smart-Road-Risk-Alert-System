@@ -207,11 +207,9 @@ This study benchmarks classical and deep learning models for paper title Improvi
 | W-CNN-LSTM   | 0.6834 | 0.53   | 0.66 | 0.47   | 0.53   | Units: 32, dropout: 0.3, epochs: 8 |
 
 ## 📂 Resources
-🔹 [**Dataset**](https://github.com/dr-mushtaq/Research-Work) – A-Z guide to academic research, tutorials, datasets, and collaborative projects.  
-🔹 [**Code**](https://github.com/dr-mushtaq/Deep-Learning) – Hands-on tutorials with TensorFlow & Keras.  
-🔹 [**Python-Notes**](https://github.com/dr-mushtaq/Python-Notes) – Beginner-friendly Python notes & examples.  
-🔹 [**Machine-Learning**](https://github.com/dr-mushtaq/Machine-Learning) – Implementation of ML algorithms with Jupyter notebooks.  
-🔹 [**Projects**](https://github.com/hussain0048/Projects-) – 100+ real-world AI projects & mini applications.  
+🔹 [**Dataset-KSI**](https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/blob/main/%F0%9F%93%9A%20Shujaat/KSILatest.csv) – A-Z guide to academic research, tutorials, datasets, and collaborative projects.  
+🔹 [**Dataset**](https://github.com/dr-mushtaq/Deep-Learning) – Hands-on tutorials with TensorFlow & Keras.  
+🔹 [**Code**](https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/blob/main/%F0%9F%93%9A%20Shujaat/8_09_25_Enhancing_Road_Safety_in_Smart_Cities_Reivew.ipynb) – Beginner-friendly Python notes & examples.  
 
 </details>
 
@@ -357,6 +355,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/VU-Chatbot-System" />
 </a>
+
 
 
 
