@@ -172,7 +172,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Chapter: 1  -Literature Review</h2> </summary>
 
-## 📚Section: 1  - **Samman Arooj**
+## 📚Section: 1  - **Shujaat**
  
 |Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations|Future Directions| 
 |---|---|---|---|---|---|---|---|---|---|
