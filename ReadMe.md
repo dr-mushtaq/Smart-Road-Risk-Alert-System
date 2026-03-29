@@ -189,8 +189,8 @@ By leveraging data-driven techniques, the goal is to support **traffic safety ma
 This project contributes to building **smarter, safer transportation systems** by combining **AI-powered prediction** with **real-world accident data**.
 
 ## 🎯 Publish Work
-- [Road Accident Analysis](https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/blob/main/%F0%9F%93%9A%20Shujaat/8_09_25_Enhancing_Road_Safety_in_Smart_Cities_Reivew.ipynb)
-- [Improving road safety in smart cities using machine learning techniques](https://www.nature.com/articles/s41598-026-36795-6)
+- [Road Accident Analysis-Code](https://github.com/dr-mushtaq/Smart-Road-Risk-Alert-System/blob/main/%F0%9F%93%9A%20Shujaat/8_09_25_Enhancing_Road_Safety_in_Smart_Cities_Reivew.ipynb)
+- [pdf-Improving road safety in smart cities using machine learning techniques](https://www.nature.com/articles/s41598-026-36795-6)
 
 ## 📚Section: 1  - **Shujaat**
 | # | Title | Authors (Year) | Objective | Techniques Used | AR | Performance | Key Findings | Limitations | Future Work | Dataset |
