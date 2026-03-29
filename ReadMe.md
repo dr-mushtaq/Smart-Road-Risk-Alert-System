@@ -173,22 +173,21 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📚Chapter: 1  -Literature Review</h2> </summary>
 
 ## 📚Section: 1  - **Shujaat**
- 
- | Sr. No | Title | Authors | Year | Goal | ML Technique | Assoc. Rules | Performance | Future Directions | Journal / Category | Quality | Limitation | Input Features | Findings | Notes | Key Points | Dataset Relation |
-|--------|-------|---------|------|------|--------------|--------------|-------------|------------------|--------------------|---------|------------|----------------|----------|-------|------------|------------------|
-| 1 | A Framework for Analyzing Road Accidents Using ML | Shweta et al. | 2021 | Identify accident factors | DT, KNN, NB, AdaBoost, K-means | No | 81.5% (CART), AdaBoost best | Use more data | Journal of Physics | N/A | Results not significant | Year, region, vehicle type, etc. | Toronto east high fatalities | Intro, Method | 2007–2017 | FATAL target |
-| 2 | Prediction of Fatal & Major Injuries | Shanshal et al. | 2020 | Predict fatalities | Lasso, RF, Assoc. Rules | Yes | RF: 80–89% | Try SVM | Promet Traffic | Q3 | Not stated | Road, driver, cyclist data | Cyclists high risk in summer | Data mining section | 2007–2017 | Yes |
-| 3 | Collision Analysis of Driving Scenarios | Watkins et al. | 2017 | Identify injury patterns | DT, Neural Nets | No | N/A | Improve RF variants | IEEE CCWC | N/A | Not stated | Collision, weather, driver data | Rush hour impact high | Experiments | NCDB dataset | No |
-| 4 | Improving Road Safety in India | Alam | 2018 | Reduce accidents | Association Rules | Yes | N/A | Add driver/car features | REDSET Conf | N/A | Not stated | Road, vehicle, accident type | Night accidents common | Rules explanation | NHAI dataset | No |
-| 5 | Collision Prediction Montreal | Hébert et al. | 2019 | Predict accidents hourly | RF, BRF, XGBoost | No | RF: 85% | Add features | IEEE Big Data | N/A | Not stated | Weather, signals, road | Identifies dangerous roads | — | Montreal datasets | No |
-| 6 | Fatality Prediction Using DL | Emu et al. | 2022 | Predict fatal vs non-fatal | RF, KNN, SVM, CNN | No | CNN: 75.56% | Hybrid models | IEEE Open Journal | — | Not stated | Weather, road, vehicle | Key influencing factors identified | Deployment idea | 1995–2014 | No |
-| 7 | Deep Forest for Severity Prediction | Gan et al. | 2020 | Predict severity | Deep Forest | No | 90.69% accuracy | Policy making | Journal of Adv. Transport | Q2 | Not stated | Geo, weather, vehicle | High performance | Correlation study | UK dataset | No |
-| 8 | Accident Severity Bangladesh | Labib et al. | 2019 | Predict severity | DT, KNN, NB, AdaBoost | No | AdaBoost best (80%) | Study feature interaction | Smart Computing Conf | N/A | Not stated | Road, weather, vehicle | Trucks/buses more accidents | Feature selection | 2001–2015 | No |
-| 9 | Hybrid Data Mining Model | Parathasarathy et al. | 2019 | Predict accident type | KNN, SVM, Hybrid | No | Hybrid: 92% | — | IEEE ICCCT | — | Not stated | Road, weather, light | Hybrid best | Intro | UCI dataset | No |
-| 10 | Classification of Accident Data | Kumeda et al. | 2019 | Classify accidents | Fuzzy-FARCHD, RF, MLP | No | Best: 85.94% | Try other ML | IEEE ICCSN | N/A | Missing factors | Road, driver, vehicle | Age 20–40 high risk | Lit review useful | UK 2016 | No |
-| 11 | ML Comparison for Severity | AlMamlook et al. | 2019 | Compare models | LR, NB, RF, AdaBoost | No | RF: 75.5% | Policy implications | IEEE JEEIT | N/A | Missing factors | Driver, weather, seatbelt | RF best | Feature selection | 2010–2016 | No |
-| 12 | Association Rules for Accidents | Kuyumcu et al. | 2023 | Find risk relationships | Apriori | Yes | N/A | — | Turkish Civil Eng. | N/A | No severity detail | Driver, weather, road | Strong rule patterns | Support/lift explained | Turkey dataset | No |
-| 13 | Assoc. Rule Mining + Analytics | Datu | 2023 | Analyze accidents | FP-Growth | Yes | N/A | — | AIP Conf | N/A | Small dataset | Time, age, gender | Male (15–29) high risk | FP > Apriori | 2015–2018 | No |
+| # | Title | Authors (Year) | Objective | Techniques Used | AR | Performance | Key Findings | Limitations | Future Work | Dataset |
+|---|-------|----------------|-----------|-----------------|----|-------------|--------------|-------------|-------------|---------|
+| 1 | ML Framework for Road Accident Analysis | Shweta et al. (2021) | Identify accident factors | DT, KNN, NB, AdaBoost, K-means | No | 81.5% (CART), AdaBoost best | High fatalities in Toronto east; key factors: speeding, aggressive driving | Weak significance | Use larger dataset | 2007–2017 |
+| 2 | Prediction of Fatal & Major Injuries | Shanshal et al. (2020) | Predict severe injuries | RF, Lasso, Association Rules | Yes | RF: 80–89% | Cyclists at higher risk; no-traffic zones dangerous | Not specified | Apply SVM | 2007–2017 |
+| 3 | Collision Analysis of Driving Scenarios | Watkins et al. (2017) | Identify injury patterns | DT, Neural Networks | No | — | Rush hours increase severity; safety measures suggested | Not specified | Improve RF variants | NCDB |
+| 4 | Road Safety Improvement (India) | Alam (2018) | Reduce accidents | Association Rules | Yes | — | Night-time, overspeeding, petrol vehicles dominant | Limited features | Include driver/car data | NHAI |
+| 5 | High-Resolution Collision Prediction | Hébert et al. (2019) | Predict hourly accidents | RF, BRF, XGBoost | No | RF: 85% | Identifies high-risk road segments | Not specified | Feature engineering | Montreal datasets |
+| 6 | Fatality Prediction (Deep Learning) | Emu et al. (2022) | Predict fatal vs non-fatal | RF, KNN, SVM, CNN | No | CNN: 75.56% | Weather, road, and vehicle are key predictors | Not specified | Hybrid models | 1995–2014 |
+| 7 | Deep Forest Severity Prediction | Gan et al. (2020) | Predict severity | Deep Forest | No | 90.69% | High accuracy with fewer parameters | Not specified | Policy development | UK dataset |
+| 8 | Accident Severity (Bangladesh) | Labib et al. (2019) | Predict severity | DT, KNN, NB, AdaBoost | No | AdaBoost best (~80%) | Trucks/buses heavily involved | Not specified | Study feature interactions | 2001–2015 |
+| 9 | Hybrid Model for Accident Type | Parathasarathy et al. (2019) | Predict accident type | KNN, SVM, Hybrid | No | Hybrid: 92% | Hybrid model outperforms others | Not specified | — | UCI dataset |
+| 10 | Accident Classification Study | Kumeda et al. (2019) | Classify accidents | Fuzzy-FARCHD, RF, MLP, NB | No | Best: 85.94% | Age 20–40, males most involved | Missing causal factors | Apply other ML methods | UK 2016 |
+| 11 | ML Comparison for Severity | AlMamlook et al. (2019) | Compare models | LR, NB, RF, AdaBoost | No | RF: 75.5% | RF performs best | Missing variables | Policy applications | 2010–2016 |
+| 12 | Association Rule Analysis | Kuyumcu et al. (2023) | Identify risk relationships | Apriori | Yes | — | Strong rule-based relationships found | No severity linkage | — | Turkey dataset |
+| 13 | Accident Analysis (FP-Growth) | Datu (2023) | Pattern discovery | FP-Growth | Yes | — | Males (15–29), night accidents dominant | Small dataset | — | 2015–2018 |
 </details>
 
 <details> 
