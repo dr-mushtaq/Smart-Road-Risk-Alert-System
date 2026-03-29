@@ -172,6 +172,22 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Chapter: 1  -Literature Review</h2> </summary>
 
+# 🚦 Road Accident Analysis and Prediction of Injury Severity
+
+## 📌 Description
+This project focuses on applying **machine learning (ML)** and **deep learning (DL)** models to analyze road traffic accidents, predict **injury severity**, and generate actionable **safety insights**.  
+By leveraging data-driven techniques, the goal is to support **traffic safety management, accident prevention strategies, and informed policy-making**.  
+
+## 🎯 Key Objectives
+- 📊 Accident data preprocessing & visualization  
+- 🏗️ Feature engineering for traffic & injury patterns  
+- 🤖 ML/DL models for injury severity prediction  
+- ⚖️ Comparative analysis of traditional vs. deep learning methods  
+- 🚧 Insights to improve road safety and reduce fatalities
+- 
+## 💡 Impact
+This project contributes to building **smarter, safer transportation systems** by combining **AI-powered prediction** with **real-world accident data**.
+
 ## 📚Section: 1  - **Shujaat**
 | # | Title | Authors (Year) | Objective | Techniques Used | AR | Performance | Key Findings | Limitations | Future Work | Dataset |
 |---|-------|----------------|-----------|-----------------|----|-------------|--------------|-------------|-------------|---------|
