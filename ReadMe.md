@@ -195,7 +195,7 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📚Chapter:2 -Model metrics benchmarks </h2> </summary>
 
 
-## 📚 Paper Title: 3 **Improving Road Safety in Smart Cities using Machine Learning Techniques**
+###Paper Title: 3 **Improving Road Safety in Smart Cities using Machine Learning Techniques**
 
 This study benchmarks classical and deep learning models for paper title Improving Road Safety in Smart Cities using Machine Learning Techniques (tuned) achieving the best performance.
 
